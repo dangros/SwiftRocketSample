@@ -14,6 +14,7 @@
 		C4237C272262ACA900A747DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4237C252262ACA900A747DA /* LaunchScreen.storyboard */; };
 		C4237C322262ACA900A747DA /* YetAnotherTryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4237C312262ACA900A747DA /* YetAnotherTryTests.swift */; };
 		C4237C3D2262ACA900A747DA /* YetAnotherTryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4237C3C2262ACA900A747DA /* YetAnotherTryUITests.swift */; };
+		C4237C4B2262AE8100A747DA /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = C4237C4A2262AE8100A747DA /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C4237C382262ACA900A747DA /* YetAnotherTryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YetAnotherTryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4237C3C2262ACA900A747DA /* YetAnotherTryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YetAnotherTryUITests.swift; sourceTree = "<group>"; };
 		C4237C3E2262ACA900A747DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4237C4A2262AE8100A747DA /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C4237C1B2262ACA800A747DA /* YetAnotherTry */ = {
 			isa = PBXGroup;
 			children = (
+				C4237C4A2262AE8100A747DA /* hustle-on.wav */,
 				C4237C1C2262ACA800A747DA /* AppDelegate.swift */,
 				C4237C1E2262ACA800A747DA /* ViewController.swift */,
 				C4237C202262ACA800A747DA /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4237C4B2262AE8100A747DA /* hustle-on.wav in Resources */,
 				C4237C272262ACA900A747DA /* LaunchScreen.storyboard in Resources */,
 				C4237C242262ACA900A747DA /* Assets.xcassets in Resources */,
 				C4237C222262ACA800A747DA /* Main.storyboard in Resources */,
